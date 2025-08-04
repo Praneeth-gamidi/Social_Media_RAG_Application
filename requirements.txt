@@ -1,4 +1,9 @@
+streamlit
+langchain
 langchain-community
 langchain-core
-chromadb
+langchain-chroma
+langchain-huggingface
+sentence-transformers
 transformers
+torch
